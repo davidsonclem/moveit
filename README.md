@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/whisoer/moveit?color=green">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davidsonclem/moveit?color=green">
 
   <a href="https://www.linkedin.com/in/davidson-clem/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Davidson%20Clem-green">
