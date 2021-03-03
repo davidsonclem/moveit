@@ -15,17 +15,17 @@
   <a href="https://www.linkedin.com/in/davidson-clem/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Davidson%20Clem-green">
   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/whisoer/moveit?color=green">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davidsonclem/moveit?color=green">
 
-  <a href="https://github.com/whisoer/moveit/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/whisoer/moveit?color=green">
+  <a href="https://github.com/davidsonclem/moveit/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davidsonclem/moveit?color=green">
   </a>
 
-  <a href="https://github.com/whisoer/moveit/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/whisoer/moveit?color=green">
+  <a href="https://github.com/davidsonclem/moveit/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/davidsonclem/moveit?color=green">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/whisoer/moveit?color=green">
+  <img alt="GitHub" src="https://img.shields.io/github/license/davidsonclem/moveit?color=green">
 </p>
 
 <p align="center">
